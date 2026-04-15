@@ -1,12 +1,12 @@
-arr[0] [0]= 1
-arr[0] [1]= 2
-arr[0] [2]= 3
-arr[1] [0]= 2
-arr[1] [1]= 3
-arr[1] [2]= 4
-arr[2] [0]= 3
-arr[2] [1]= 4
-arr[2] [2]= 5
-arr[3] [0]= 4
-arr[3] [1]= 5
-arr[3] [2]= 6
+enter the rows and columns of two matrices:
+enter the elements of A matrix:
+enter the elements of B matrix:
+The elements of A matrixs
+	0		1	
+	2		3	
+The elements of B matrixs
+	4		5	
+	6		7	
+The addition of two matrixs
+	4		6	
+	8		10	
