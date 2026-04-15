@@ -1,1 +1,2 @@
-The lowest age in the array is :18
+3
+7
