@@ -1,12 +1,1 @@
-enter the rows and columns of two matrices:
-enter the elements of A matrix:
-enter the elements of B matrix:
-The elements of A matrixs
-	0		1	
-	2		3	
-The elements of B matrixs
-	4		5	
-	6		7	
-The addition of two matrixs
-	4		6	
-	8		10	
+7 6 5 5 
