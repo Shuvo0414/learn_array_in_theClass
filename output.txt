@@ -2,13 +2,17 @@ Enter rows and cols of Matrix A:
 Enter rows and cols of Matrix B:
 Enter elements of A:
 Enter elements of B:
-The elements of A matrixs
+The elements of A matrix:
 	0		1		2	
 	3		4		5	
-The elements of B matrixs
+	5		6		7	
+	9		4		5	
+The elements of B matrix:
 	3		4	
 	5		6	
 	7		8	
 Result matrix:
 	19		22	
 	64		76	
+	94		112	
+	82		100	
